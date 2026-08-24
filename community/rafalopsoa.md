@@ -1,6 +1,6 @@
 # Olá, eu sou a Rafaela! 👋🏾
 
-**Analista de Qualidade (QA) | Automação & Infraestrutura de Testes | IA aplicada a QA**
+**Analista de Qualidade (QA) | Automação & Infraestrutura de Testes | IA generativa aplicada a QA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelalopes/)
 
